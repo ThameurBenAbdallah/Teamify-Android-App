@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Teamify</string>
+    <string name="teamify">Teamify teamWork Management</string>
+    <string name="add_new_user">Add a new user</string>
+</resources>
